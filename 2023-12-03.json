@@ -1,0 +1,26 @@
+{
+  "name": "Hallie Francis",
+  "age": 33,
+  "address": {
+    "street": "Pulwa Terrace",
+    "city": "Veppoowu",
+    "state": "CA",
+    "zip": "25275"
+  },
+  "contact": {
+    "phone": "(770) 818-2083",
+    "servicePhone": "800539899"
+  },
+  "birthday": "1995-06-26T12:33:20.166Z",
+  "ip": "104.19.125.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Ha jeub sotuco moor ge jobwec kursidmon kahoz zavkiho lisus soja hi asfa ut vovvorni viledof. Volah bo zewpuna es wakmeg ka hawzupu utunonjic ot du we jacfu zoob pugget. Ihraowe opa epe nop hok anevifkel cubbup galzochi us recsomjaz ul div ral virel wejare leeturet naure.",
+    "bio": "Ohu ci itle riweebo japnu win lalij dinahmos kewsajege odren uhafe zeguc ujonahu aj kataugu. Viz sikfos vi zij wuzfovvun heg seku nacmerik nuw gusdedkup hihobgu uhsac. Ikcif naresbal um futco uw laone ga kimur sajavnos gukozu vusorjom sase obpupwug."
+  },
+  "apiKey": "0f53f3cad3f52fc29f8dad8f313f7d05be935483bee28dd339b4eb4afc72a78c",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
