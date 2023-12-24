@@ -1,0 +1,26 @@
+{
+  "name": "Fred Singleton",
+  "age": 20,
+  "address": {
+    "street": "Ritu Extension",
+    "city": "Irevaje",
+    "state": "MA",
+    "zip": "70068"
+  },
+  "contact": {
+    "phone": "(262) 975-9248",
+    "servicePhone": "800817832"
+  },
+  "birthday": "1971-08-25T20:11:38.515Z",
+  "ip": "166.184.117.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Wubiwmu kan jul loj osahup kulare ada edafu sumlu wuzijuco wuctogge jimkeizu zeuviweh dabu emi pik seovoluj. Zona bubve udolobkev rar bazoruh basubic mokvoj potectog povbonufu efa erdoid vu kemu aduba sag. Cif moj ugimudib ravvidno hin epfek sego tibzazu bufeziku ujabo paggi wohvuipu ravi sasikpur. Wusahoz op fufet pejonop eghemi fohaas oku wolciziw un cordomdug fumuabi azeuzluh pece. Kutom gofzuk onome mizu de da une fifausa govinu ko homarece os tuwsa.",
+    "bio": "Alnekud pa vusjuvid wakesdud uhu li did ci fo ene pacel sabufpa gezu eg. Nu kurepiv diriwo toh vaga to te lupcikfa bi jotdija dajcu sa jucecgaw ufgiv ofsom zoro hu ewegi. Eba punajuza ve noal ecsuzze jecaptip bajajahit moici bobme zazo zomunama esajid. Iloginpo lic emza hos uwamar la puvudob evi jaujapo fu soni foacofu ocvu caj rujper ubo pacje. Lusritiv ik sir liwduh uzas po gunah siput lobuhag ottow gez ugipetdi bu unahowwah ra ne. Ek irhuroj ijmudig numja elo sem wod diiw pi jackuz tem tiwo."
+  },
+  "apiKey": "9df320687626ccc9cc7849b9d14e3bc469381b82b0b6583d0cf4ca6be96f81ca",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
