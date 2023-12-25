@@ -1,0 +1,26 @@
+{
+  "name": "Henry Snyder",
+  "age": 46,
+  "address": {
+    "street": "Eleva Loop",
+    "city": "Gifojuc",
+    "state": "WV",
+    "zip": "71612"
+  },
+  "contact": {
+    "phone": "(242) 943-3134",
+    "servicePhone": "800495534"
+  },
+  "birthday": "1996-11-16T15:06:33.442Z",
+  "ip": "16.24.157.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Modbu baz ku mar tudu huki baguk kupmizim ezehuptog ifuifku azuna uhaubike. Aszo boj ke zu je nabizag efzu jop bazhoun imesehis sofakso hew vacji ugali nilih bogo. Ifre fik fimfuf sipzoja tetmihih tefimca elofijin ros tu edtej ozukidbu gikfob wifafta pigsi go meggu figku wo. Fan ta gubrizeb imoizupe jugho hit sar zohbitbot revpab gib fa ib saf vibi kajjizoz bogov. Sipgopfu tifejoep aviahhus jiwelzu gif ihina leg na ka gimu wamza gopec hifof mor nodamep huv.",
+    "bio": "Gegug puc azeofwov guupo hejikli sasjeg ati gipojbi wiv pip vusnecrit sugmog wonheelo. Edo ok uvkaga kikog hanauh melahuvi tav zinwa izego elpo kuw baloze ve eruwow havoblur linta lo. Hundu zohove kuncit oharod lokuwi mum imwo ciub mizihoc kec sog uwihopa pubwus burhebav lem. Zupbi epgiwnoh vifeme du buwil se wolcowca piw weg vewiz dogresko wajguh li ufikaeg gasejso le."
+  },
+  "apiKey": "d2ec824130c68fd7fedd82b7295a1585a14232321b69c1c7dd3f560f4f0c06cf",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
