@@ -1,0 +1,26 @@
+{
+  "name": "Leon Brock",
+  "age": 27,
+  "address": {
+    "street": "Usjes Trail",
+    "city": "Jufuczur",
+    "state": "DC",
+    "zip": "18699"
+  },
+  "contact": {
+    "phone": "(205) 644-5967",
+    "servicePhone": "800614225"
+  },
+  "birthday": "1989-08-02T11:35:50.059Z",
+  "ip": "75.216.223.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Tawe jozaha opuero he kontut ruse vuviponaz abata owjovoti azfi zeg fe iheza cezo. Tokletet vaj he ectak me fe isubezu gazfehu dukwewol poc macu nulihu tik. Te cim sapaisu li voujsiz uhoolilak dopvo lufles lutibco powviju kuzaj ej ejaap cobhezhu ekgew asoowi fa ekeus.",
+    "bio": "Na ohe la rida ehi gatopido po wovop ke temol omuibcel melo. Peohuze fofkev is edo ja cifoctec gikaw bez gig lofi capbal jeri cioswe mefo hab. Maci wucet lekdoc jom woldifpof nazliega abaj gari dofodlo ge now udaejaza gerileg zouwbu tervo. Zaizo ijdup ifzegzil lanu na fuketoh rifki hus da neewja atibelap rip doluc kut oso."
+  },
+  "apiKey": "01a9e66e170fdd38493cb4e995a1d76fe7c07f2003ec30af48ef3dcd28b6414c",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
