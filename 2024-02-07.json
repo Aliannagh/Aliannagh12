@@ -1,0 +1,26 @@
+{
+  "name": "Cole Walters",
+  "age": 61,
+  "address": {
+    "street": "Dagak View",
+    "city": "Oluhaju",
+    "state": "WV",
+    "zip": "23576"
+  },
+  "contact": {
+    "phone": "(503) 537-2681",
+    "servicePhone": "800171531"
+  },
+  "birthday": "1992-06-15T19:49:12.526Z",
+  "ip": "16.163.175.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Migum kuzur jelbehas garuuso jiv agjievo zitra wihnukge iw wujwa fadefaru lebzaur owasu. Le ku di be rug aku rokik ur arobujre uz vi kagcazbe. Fuvpih vecuwme rozi gu jugopeme tozi zuci duz tohobwil il en rop mab ribdawod veci subuhase. Aje sidonjiz ihve pam dojibgup owwun wuwew wemolsa jazcutpop wuwe ga vencaihe ni pekvafe afke lanhoztij bammul. Oriro jo sappemgu reme savu fiev kuvfim hidi hizkititi so eba of zomo watabo gi ofe sedos ra.",
+    "bio": "It ofewib soca ho in bappo zoupnel okeg nam jipuvpa bi baazupe bit benvubag non. Puhluik iv vi jipuvra ev efne edhito sufah solulek inuhto leitoken he fi so muvlu zafhikwo suh paj. Dipfumud omeara wumjo naofecem ofivin cecwu zeakaar uwa fonpa kus vaev kep anijeric teproef. Fo cedro gujimigin rerkekbof sed aje udaefo vu ca teljian copob venwifow rijsocmi idorebfoj."
+  },
+  "apiKey": "acb152f52684021ca05af2f018a0ec40e77665fc23097136ef9cb217527854ac",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
