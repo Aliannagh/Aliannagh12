@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Boyd",
+  "age": 21,
+  "address": {
+    "street": "Korrab Road",
+    "city": "Koniho",
+    "state": "CO",
+    "zip": "56541"
+  },
+  "contact": {
+    "phone": "(355) 681-1145",
+    "servicePhone": "800666297"
+  },
+  "birthday": "1987-05-25T21:42:19.825Z",
+  "ip": "107.73.225.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Jompuw fa ila kus bo bes duzi ofiko zuzo hutfuwu piftu timhi. Tevusfek zeb ivimew po lokisab emo sis ug op ke gip linsubjub gewegho wudehi juhi nu beg ahiheteg. Juhnakew uzelolew riijhe hasohhis nuadko risopcu omciwlo hami ocaruez radukaga diego pedpi toj. Tecalef vihiwi uh hijempah nabineko ijojouf fopif ru cij dido kezuupi vadono la.",
+    "bio": "Udhap ut ubaje vab tu mi bek ofa mi bigje ihtapod fe sug sunpaapi abezogahe kibdeg kotag. Es tuhhiuc sanu voza de luiwva bedjikop fuev kuup ehuhaw ororpo wagutpa uv ohuap kioje naz pate muono. Mi wa do dakegre zus azu amocevon holpowu votak horupkap poscusmo amu muf riwul ibodo fem."
+  },
+  "apiKey": "cd783cbbbf8e0f5812149ef7581e5a5f62ce7dcf6f55e808220091e9a6e2d29a",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
