@@ -1,0 +1,26 @@
+{
+  "name": "Donald Collier",
+  "age": 41,
+  "address": {
+    "street": "Zabe Grove",
+    "city": "Delcodice",
+    "state": "WI",
+    "zip": "03886"
+  },
+  "contact": {
+    "phone": "(824) 806-2506",
+    "servicePhone": "800196576"
+  },
+  "birthday": "1963-09-20T12:49:01.321Z",
+  "ip": "221.243.228.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Luemmoh hujcuhelu suri gacug hu fupcag necwak nim ha bimzurhu az potuvzi udi ek onga iwozid. Bo soelhon zetuhti kevgup uheviij rujbo omso isizo ordu icvic suz abdozho. Dajolja zi vejepa vizipiz gepab eltirub ep zerinba zorlak suf pipaz bo geju so et keneraku pera raava.",
+    "bio": "Mozoh zuglile bugrah favcu bivguvik fid mig wizi tavezeg luk ecna jaedoos aklekwob mot jidowto. Gomitu otowipe hakmul gafo milu juroki iluvijug da na owlapa mifotaja etiwupak fairi ushehfi tej aw ufrekin bobesiw. Apohi humwemmus uccasi pupucu zon ut reh su ze niz go inu firon foritu reemgu rirce kukfusu kotdejhav. Koekuke ifehuz man ove lef codji peles kewzac dos sijpaj vudor etoidi. Suboc oruwi ewtubew cafgemnab cojjow ujmogfo tededamop ho we zilahokos danakke cifu duhu haim. Wiuti ho isoawamun vuodabe uh icuemuuro comtazim wuuze gahuz ceji di walinsen utasi teojifi cob jaketun cowit."
+  },
+  "apiKey": "8a111ead883f23feb748d7b22483c14c8961d6e4f6b21f451aacef89a01b1c8e",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
