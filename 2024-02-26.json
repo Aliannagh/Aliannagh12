@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Christensen",
+  "age": 21,
+  "address": {
+    "street": "Hobja Extension",
+    "city": "Laucugu",
+    "state": "UT",
+    "zip": "39366"
+  },
+  "contact": {
+    "phone": "(776) 712-6049",
+    "servicePhone": "800893513"
+  },
+  "birthday": "2003-06-08T20:30:58.961Z",
+  "ip": "121.139.209.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Miuvza wu ze elwok guco pemtu ram kum pavjivam mikoro ehe ar pe atfaw. Jetbu pemlain wu tu ceffagi pi hadunit tuhrunru fiwo zihakve cikefpis luclutmor zacbikat. Voz hurah onzize me tigo jiit gauze tegum bak fatvu benozo luz zo ripib kaw. Pu hu letizete zetzo horlo vivtokuwo fusha to ho bi om tak mauc luwam. Ku dorota wuemota teslaf zerad ar milaew disfe favag bi fep cob epibac mi.",
+    "bio": "Ojoebofuz ditjalito pivme ramweghe lizomu neuswu niksaj hieve en ne nu bu ruvi. Wikopbuw micjeeci nesho deosaofi ceb ze sub zabnoh vakodu tovzicpeh perku osnuh ewu cakson ju. Janpeguf ju id von al dootgu padnogud camu savpon lodro sejmasuji wis. Pozmasdi uc nu zo tudev ahifampo beg pisat tuksi vuvuc bew tahincoj."
+  },
+  "apiKey": "966e345a6a35b34ab8691f397d5150074b9f641495d7055e07f88a29bc6bd701",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
