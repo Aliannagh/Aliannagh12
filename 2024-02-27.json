@@ -1,0 +1,26 @@
+{
+  "name": "Adele Shelton",
+  "age": 36,
+  "address": {
+    "street": "Wehi Key",
+    "city": "Idowasku",
+    "state": "IL",
+    "zip": "48311"
+  },
+  "contact": {
+    "phone": "(311) 264-8292",
+    "servicePhone": "800569351"
+  },
+  "birthday": "1971-08-29T12:09:04.325Z",
+  "ip": "220.222.7.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Ka gekhafow el inzu zih fonjuvu litnabes up isimapve vektuli ushak wufomvim puchitam. Gias cur tugsupcof buvzuz lein eftupib fa ziso luv beh urlur zitajbu oti pezbacew. Josdut cu fasecve mapifo teedto jahvabve dowic tit rirah jit kodtugaso hado. Goh bil vasaf ipenah ru zepre taz wufipbe jiviked nor kefvikir podufopo ca rajo.",
+    "bio": "Je uhehop wikhifwew retgirawa siegi il lappe tu figuva mordotkaz dustuger mehzafko cik orziz pe gepoabi. Ni soror utikikhab mune ga efemeb racef fiw juwow va gebmaz kalcezun sepvokef bajis puzga. Ni innef jicdob ipovika ucjukuk irnaw kismat wu nolroh gu gu bowda mijuom ok fe dihak."
+  },
+  "apiKey": "990e2911bf75f3e607b46984a359b130f4a78e91e033898535c8fa1baff5739b",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
