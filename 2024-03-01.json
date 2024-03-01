@@ -1,0 +1,26 @@
+{
+  "name": "Mark Daniels",
+  "age": 51,
+  "address": {
+    "street": "Saac Drive",
+    "city": "Moaridu",
+    "state": "NC",
+    "zip": "42083"
+  },
+  "contact": {
+    "phone": "(634) 332-5153",
+    "servicePhone": "800691983"
+  },
+  "birthday": "2006-09-24T00:17:36.647Z",
+  "ip": "202.127.0.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuka uzuufmo rahamu aju tepdotuj fesedu toriswa iziniton lad dos fiun zic vicubli nevo cojatu umwehel rajdiac. Wounofum la iroduod mos menlopuk gafu pusozag rovfahuh fodutav ceed aznakke hecna volujim ezjibu ufuig ke. Ufika da buog gir hullipis udize uji nofidac meblac duhsuvzec zubomvi kib kaf tarzemu. Catlosa puw jip tuvgamul kig ogu jejid jote ho ezolej nobe ses gi enebe ec. Duirzo tu kutajwam ehi fekosjir de tudofak cuhafpeg sero dos niwbidlij zucfofogo renid ritep.",
+    "bio": "Erlef zefvad kagapuki gopozo vodvonica ki eca ajute fihan nin cu sesunak ozuta sog gawa abe moh ez. Jo tiham dawlat ter pudmedik ca so kivkokra umeg nubpit mubgem houf us usi. Vebzo tupumvuf fatoj pepipov utli vusjav keh casowo genan kicuf isa fer wide niw zodak emuce."
+  },
+  "apiKey": "29b1f6add435d6ec6cad23feab52c5d80e0bf6757f4a1265aa391ed1c38a03f8",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
