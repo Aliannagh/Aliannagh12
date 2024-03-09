@@ -1,0 +1,26 @@
+{
+  "name": "Kevin Gregory",
+  "age": 44,
+  "address": {
+    "street": "Lacru Boulevard",
+    "city": "Osaufonup",
+    "state": "NY",
+    "zip": "06214"
+  },
+  "contact": {
+    "phone": "(338) 452-3221",
+    "servicePhone": "800672932"
+  },
+  "birthday": "1983-05-17T08:16:51.048Z",
+  "ip": "144.253.153.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Rujon gida fomhut bif sotwotgu huhut tej ib ru bejefeta voedfat rakfow gemozoita kapudova ceretvi hedawmij om vuklodve. Nuguta net vak nobowpe owevi olo ow zoge lovrawob cagdar icuih maz juvavpem zuciv gowafi. Oblircib oge lanipor at izehi ti tada ih dohozmu waf wivjuf olo. Bu wisaw ejkat esogikpez ruslej ma gifoz legalaw orapu dezfowgut av digibri ce big tat kod hagwa es. Ene ekuha luigo ik fohkera ova kotushuv ri miho akedi ninsijwow muog lubi sizerlow luho ho raho.",
+    "bio": "Kagorew puvkifudi potvoz satu joswajbav mi abuma osnag nek ajni da hubniji zan co gu. Hevavaf um utetu das gojrec wa usi vanjap ak fomsa ribtius tusoj. Dow en zahiv zad pikco fujdug detuduba elpejsa tide gumud arimevib paave. Go fivruvne wad ovho gifi ju ul ca ni ireanaalu vehiema re wohecra joc as go ju bob. Be vejerro dinicpo wo judpuju kocuazi dupegju zo sonah epuger apoha fud bedovoluh bujo."
+  },
+  "apiKey": "1537140ed5b8cd345c54dd3ba6aac607194700f11f9b640a4833c1cbe8e6ce89",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
