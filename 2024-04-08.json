@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Bush",
+  "age": 60,
+  "address": {
+    "street": "Luwim Loop",
+    "city": "Hivikod",
+    "state": "NE",
+    "zip": "90780"
+  },
+  "contact": {
+    "phone": "(281) 373-4793",
+    "servicePhone": "800278546"
+  },
+  "birthday": "1972-02-13T08:46:05.042Z",
+  "ip": "212.91.199.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Liocuwir uj uzucejil daf zet oz tig ec afarubnop itvinfab nic ejehic si ah duhgusiz god. Mu cootfic geb moc jedrabbuz hu cahrawep ni vew zujas iha zacamu ne duuki veed dijon bo dowrefe. Ucuzide imra fac ef disomeni paga mes gumu ernehham vo atjuc fo ovsus tiwhej fuluva. Sikled igauflul tegacgo karuuk gik bo cobdo amred doar sibegi wois pedef.",
+    "bio": "Dawdo zicpeap eca muwo jih vogbeg raw mi upasaite motte uduudusip amimmiw dejsuvdi azvud tolavwor zokki. Tor mukuc ja du apidof bu zucla bacfidaz oziso odufu zufigo milip waploprif wa huvwepil. Ri wij motehol ifagejge tuv mek uj ba gomrabeco se conva gijen zezzueti avojikob penfo ejo."
+  },
+  "apiKey": "1157ffdb7b9a6c1c34797aae4d3151197595d5bf95b055a29afef3f9eaecb28f",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
